@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0239-sliding-window-maximum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0239-sliding-window-maximum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Math
@@ -42,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
