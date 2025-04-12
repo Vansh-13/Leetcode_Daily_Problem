@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0219-contains-duplicate-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3548-find-the-count-of-good-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3548-find-the-count-of-good-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2998-count-symmetric-integers) |
+| [3548-find-the-count-of-good-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3548-find-the-count-of-good-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
