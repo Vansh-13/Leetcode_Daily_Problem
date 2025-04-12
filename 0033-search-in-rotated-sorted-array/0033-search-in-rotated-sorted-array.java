@@ -15,8 +15,8 @@ class Solution {
     }
 
     public int b(int i, int j, int nums[], int target) {
-        while (i <=j) {
-            int mid = i + (j - i) / 2;
+        while (i <= j) {
+            int mid = j+ (i - j) / 2;
             if (nums[mid] > target) {
                 j = mid - 1;
             } else if (nums[mid] < target) {
@@ -31,11 +31,11 @@ class Solution {
     public int search(int[] nums, int target) {
         int n = nums.length;
         int pivot = findViot(nums);
-        int idx = b(0, pivot - 1,nums,target);
+        int idx = b(0, pivot - 1, nums, target);
         if (idx != -1) {
             return idx;
         }
-        idx = b(pivot, n - 1,nums,target);
+        idx = b(pivot, n - 1, nums, target);
         return idx;
     }
 }
