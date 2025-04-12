@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0239-sliding-window-maximum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
