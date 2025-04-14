@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1656-count-good-triplets) |
@@ -118,8 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
