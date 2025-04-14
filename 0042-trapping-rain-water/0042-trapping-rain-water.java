@@ -20,12 +20,10 @@ class Solution {
         }
         int ans = 0;
         for (int i = 0; i < height.length; i++) {
-        
-                int a = leftmax[i];
-                int b = rightmax[i];
-                int c = Math.min(a, b);
-                ans +=  c-height[i];
-            
+            int a = leftmax[i];
+            int b = rightmax[i];
+            int c = Math.min(a, b);
+            ans += c - height[i];
         }
         return ans;
     }
