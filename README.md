@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0042-trapping-rain-water) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0011-container-with-most-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
