@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1656-count-good-triplets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,10 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0011-container-with-most-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Sorting
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Matrix
 |  |
 | ------- |
