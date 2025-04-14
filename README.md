@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
 |  |
 | ------- |
