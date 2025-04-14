@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1656-count-good-triplets](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1656-count-good-triplets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3548-find-the-count-of-good-integers) |
 ## Dynamic Programming
