@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1656-count-good-triplets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Prefix Sum
 |  |
@@ -140,4 +142,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0503-next-greater-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
