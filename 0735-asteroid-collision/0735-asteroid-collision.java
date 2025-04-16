@@ -18,7 +18,7 @@ class Solution {
             }
 
             if (c != 0) {
-                st.push(c); // ✅ fix yahi hai
+                st.push(c); 
             }
         }
 
