@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0735-asteroid-collision](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0735-asteroid-collision) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1656-count-good-triplets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
