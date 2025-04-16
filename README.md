@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1656-count-good-triplets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2245-destroying-asteroids](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2245-destroying-asteroids) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -103,11 +104,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0011-container-with-most-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2245-destroying-asteroids](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2245-destroying-asteroids) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Sorting
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2245-destroying-asteroids](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2245-destroying-asteroids) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Matrix
 |  |
