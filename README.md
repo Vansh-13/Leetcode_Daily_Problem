@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0219-contains-duplicate-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3548-find-the-count-of-good-integers) |
 ## Sliding Window
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Math
 |  |
 | ------- |
