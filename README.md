@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0020-valid-parentheses) |
+| [1542-consecutive-characters](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1542-consecutive-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Binary Search
 |  |
