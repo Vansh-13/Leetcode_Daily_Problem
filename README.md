@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2280-count-good-triplets-in-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2245-destroying-asteroids](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2245-destroying-asteroids) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/0287-find-the-duplicate-number) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Vansh-13/Leetcode_Daily_Problem/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
